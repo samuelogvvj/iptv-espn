@@ -7,4 +7,5 @@ http://infogovsp.org:80/live/03034845/83557565/598914.m3u8
 http://newoneblue.site:80/live/78799641/76425833/438311.m3u8
 
 #EXTINF:-1 type="movie" tvg-name="Como Mágica" tvg-logo="https://image.tmdb.org/t/p/original/v1ZdIuHLmv3NmDzOEXnNwZsnMNY.png" poster="https://media.themoviedb.org/t/p/w440_and_h660_face/2TZiL4ZYOwWeIjGfz3glpMuPqpN.jpg" backdrop="https://media.themoviedb.org/t/p/w1066_and_h600_face/wpabGmGA3IaJNGudbzGritmR8Km.jpg" group-title="Filmes" plot="Uma pequena criatura da floresta e um pássaro majestoso trocam de corpo e precisam se unir para sobreviver à aventura mais incrível de suas vidas." genre="Fantasia,Animação,Aventura" year="2026",Como Mágica
+#EXT-X-PLAYLIST-TYPE:VOD
 https://vid7102401.hclod.qzz.io/_s3_/v10/1007757/playlist.m3u8
