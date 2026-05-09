@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="comomagica" type="movie" tvg-name="Como Mágica" tvg-logo="https://image.tmdb.org/t/p/original/v1ZdIuHLmv3NmDzOEXnNwZsnMNY.png" poster="https://media.themoviedb.org/t/p/w440_and_h660_face/2TZiL4ZYOwWeIjGfz3glpMuPqpN.jpg" group-title="Filmes",Como Mágica (2026)
+#EXTINF:-1 group-title="Filmes" plot="Uma pequena criatura da floresta e um pássaro majestoso trocam de corpo e precisam se unir para sobreviver à aventura mais incrível de suas vidas.",Como Mágica (2026)
 https://vid7102401.hclod.qzz.io/_s3_/v10/1007757/playlist.m3u8
