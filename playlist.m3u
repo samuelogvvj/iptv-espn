@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Filmes" plot="Uma pequena criatura da floresta e um pássaro majestoso trocam de corpo e precisam se unir para sobreviver à aventura mais incrível de suas vidas.",Como Mágica (2026)
+#EXTINF:-1 tvg-type="movie" group-title="Filmes",Como Mágica (2026) - Uma pequena criatura da floresta e um pássaro majestoso trocam de corpo e precisam se unir para sobreviver à aventura mais incrível de suas vidas.
 http://localhost:8096/Items/ed415ee98dc11d60fe0f31fa1c0a4ef9/Download?api_key=4447775d8395467aafcfcb1d22f27aaf
