@@ -1,4 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Esportes",ESPN
-http://192.168.18.19:59337/?url=%68%74%74%70%3a%2f%2f%69%6e%66%6f%67%6f%76%73%70%2e%6f%72%67%3a%38%30%2f%6c%69%76%65%2f%30%33%30%33%34%38%34%35%2f%38%33%35%35%37%35%36%35%2f%35%39%38%39%31%34%2e%6d%33%75%38%7c%55%73%65%72%2d%41%67%65%6e%74%3d%58%43%2d%49%50%54%56
+#EXTINF:-1 tvg-id="itderry.s01e01" tvg-name="IT: Bem-vindo a Derry S01E01" tvg-logo="poster.jpg" group-title="Séries",IT: Bem-vindo a Derry • S01E01 • Capítulo 1
+http://localhost:8096/Items/045d2d5df86f9eb73c41a58dd5360a77/Download?api_key=4447775d8395467aafcfcb1d22f27aaf
+
+#EXTINF:-1 tvg-id="itderry.s01e02" tvg-name="IT: Bem-vindo a Derry S01E02" tvg-logo="poster.jpg" group-title="Séries",IT: Bem-vindo a Derry • S01E02 • Capítulo 2
+http://localhost:8096/Items/1e82e2d0e7158966777ec6f9effb0781/Download?api_key=4447775d8395467aafcfcb1d22f27aaf
+
+#EXTINF:-1 tvg-id="itderry.s01e03" tvg-name="IT: Bem-vindo a Derry S01E03" tvg-logo="poster.jpg" group-title="Séries",IT: Bem-vindo a Derry • S01E03 • Capítulo 3
+http://localhost:8096/Items/2716e68dea413b77fc51d4df926aa27e/Download?api_key=4447775d8395467aafcfcb1d22f27aaf
+
+#EXTINF:-1 tvg-id="itderry.s01e04" tvg-name="IT: Bem-vindo a Derry S01E04" tvg-logo="poster.jpg" group-title="Séries",IT: Bem-vindo a Derry • S01E04 • Capítulo 4
+http://localhost:8096/Items/d3b33e955b4b68ca3e591e4c25cebea7/Download?api_key=4447775d8395467aafcfcb1d22f27aaf
