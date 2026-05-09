@@ -1,4 +1,7 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9LcmFzbm95YXJzaw%3D%3D&date=20260510&channel_id=418725,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9LcmFzbm95YXJzaw%3D%3D&date=20260510&channel_id=523325"
 
-#EXTINF:-1 tvg-type="movie" group-title="Filmes",Como Mágica (2026) - Uma pequena criatura da floresta e um pássaro majestoso trocam de corpo e precisam se unir para sobreviver à aventura mais incrível de suas vidas.
-http://localhost:8096/Items/ed415ee98dc11d60fe0f31fa1c0a4ef9/Download?api_key=4447775d8395467aafcfcb1d22f27aaf
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="Esportes",ESPN
+http://infogovsp.org:80/live/03034845/83557565/598914.m3u8
+
+#EXTINF:-1 tvg-id="523325" tvg-name="Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/c/cd/CARTOON_NETWORK_logo1.png/revision/latest?cb=20140428212423&path-prefix=pt-br" group-title="Infantil",Cartoon Network
+http://newoneblue.site:80/live/78799641/76425833/438311.m3u8
