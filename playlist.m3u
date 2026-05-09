@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 type="movie" tvg-name="Como Mágica" tvg-logo="https://image.tmdb.org/t/p/original/v1ZdIuHLmv3NmDzOEXnNwZsnMNY.png" poster="https://media.themoviedb.org/t/p/w440_and_h660_face/2TZiL4ZYOwWeIjGfz3glpMuPqpN.jpg" backdrop="https://media.themoviedb.org/t/p/w1066_and_h600_face/wpabGmGA3IaJNGudbzGritmR8Km.jpg" group-title="Filmes" plot="Uma pequena criatura da floresta e um pássaro majestoso trocam de corpo e precisam se unir para sobreviver à aventura mais incrível de suas vidas." genre="Fantasia,Animação,Aventura" year="2026",Como Mágica
-http://localhost:8096/Items/ed415ee98dc11d60fe0f31fa1c0a4ef9/Download?api_key=4447775d8395467aafcfcb1d22f27aaf
+#EXTINF:-1 tvg-id="comomagica" type="movie" tvg-name="Como Mágica" tvg-logo="https://image.tmdb.org/t/p/original/v1ZdIuHLmv3NmDzOEXnNwZsnMNY.png" poster="https://media.themoviedb.org/t/p/w440_and_h660_face/2TZiL4ZYOwWeIjGfz3glpMuPqpN.jpg" group-title="Filmes",Como Mágica (2026)
+https://vid7102401.hclod.qzz.io/_s3_/v10/1007757/playlist.m3u8
