@@ -1,7 +1,401 @@
-#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9LcmFzbm95YXJzaw%3D%3D&date=20260510&channel_id=418725,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9LcmFzbm95YXJzaw%3D%3D&date=20260510&channel_id=523325"
-
-#EXTINF:-1 tvg-id="418725" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="Esportes",ESPN
-http://infogovsp.org:80/live/03034845/83557565/598914.m3u8
-
-#EXTINF:-1 tvg-id="523325" tvg-name="Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/c/cd/CARTOON_NETWORK_logo1.png/revision/latest?cb=20140428212423&path-prefix=pt-br" group-title="Infantil",Cartoon Network
-http://newoneblue.site:80/live/78799641/76425833/438311.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-number="1.0" tvg-id="Globo SP.br" tvg-name="Globo SP FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="TV Aberta", Globo SP FHD
+http://nille121.com/live/11510295/p883A3269U/289881.m3u8
+#EXTINF:-1 tvg-number="1.1" tvg-id="Globo Sao Paulo HD.br" tvg-name="Globo SP HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="TV Aberta", Globo SP HD
+http://nille121.com/live/11510295/p883A3269U/289883.m3u8
+#EXTINF:-1 tvg-number="1.2" tvg-id="InterTV Cabugi HD.br" tvg-name="Globo inter Tv Cabugi FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/InterTV_2015.png" group-title="TV Aberta", Globo inter Tv Cabugi FHD
+http://nille121.com/live/11510295/p883A3269U/2437.m3u8
+#EXTINF:-1 tvg-number="1.3" tvg-id="InterTV Cabugi HD.br" tvg-name="Globo inter Tv Cabugi HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/InterTV_2015.png" group-title="TV Aberta", Globo inter Tv Cabugi HD
+http://nille121.com/live/11510295/p883A3269U/2436.m3u8
+#EXTINF:-1 tvg-number="2.0" tvg-id="Cultura HD.br" tvg-name="TV CULTURA FHD" tvg-logo="https://observatoriodatv.com.br/teledramaturgia/wp-content/uploads/2015/01/Bot%C3%A3o-TV-Cultura.png" group-title="TV Aberta", TV CULTURA FHD
+http://nille121.com/live/11510295/p883A3269U/149.m3u8
+#EXTINF:-1 tvg-number="2.1" tvg-id="Cultura HD.br" tvg-name="TV CULTURA HD" tvg-logo="https://observatoriodatv.com.br/teledramaturgia/wp-content/uploads/2015/01/Bot%C3%A3o-TV-Cultura.png" group-title="TV Aberta", TV CULTURA HD
+http://nille121.com/live/11510295/p883A3269U/148.m3u8
+#EXTINF:-1 tvg-number="6.0" tvg-id="Rede Vida HD.br" tvg-name="Rede Vida FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwURh0tjRqhkVyLZ7U1ncgsZuyCJGE0siEAw&s" group-title="TV Aberta", Rede Vida FHD
+http://nille121.com/live/11510295/p883A3269U/198.m3u8
+#EXTINF:-1 tvg-number="6.1" tvg-id="Rede Vida HD.br" tvg-name="Rede Vida HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwURh0tjRqhkVyLZ7U1ncgsZuyCJGE0siEAw&s" group-title="TV Aberta", Rede Vida HD
+http://nille121.com/live/11510295/p883A3269U/197.m3u8
+#EXTINF:-1 tvg-number="8.0" tvg-id="Can�ao Nova HD.br" tvg-name="Can��o Nova FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/V_GC_imagens_logo.png/revision/latest?cb=20210326010446" group-title="TV Aberta", Can��o Nova FHD
+http://nille121.com/live/11510295/p883A3269U/240806.m3u8
+#EXTINF:-1 tvg-number="163" tvg-id="Can�ao Nova.br" tvg-name="Can��o Nova HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/V_GC_imagens_logo.png/revision/latest?cb=20210326010446" group-title="TV Aberta", Can��o Nova HD
+http://nille121.com/live/11510295/p883A3269U/240805.m3u8
+#EXTINF:-1 tvg-number="9.1" tvg-id="SBT Sao Paulo HD.br" tvg-name="SBT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="TV Aberta", SBT FHD
+http://nille121.com/live/11510295/p883A3269U/244161.m3u8
+#EXTINF:-1 tvg-number="409" tvg-id="SBT Sao Paulo.br" tvg-name="SBT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="TV Aberta", SBT HD
+http://nille121.com/live/11510295/p883A3269U/244167.m3u8
+#EXTINF:-1 tvg-number="9.2" tvg-id="TV Ponta Negra HD.br" tvg-name="SBT TV Ponta Negra FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/Logotipo_da_TV_Ponta_Negra.png" group-title="TV Aberta", SBT TV Ponta Negra FHD
+http://nille121.com/live/11510295/p883A3269U/316600.m3u8
+#EXTINF:-1 tvg-number="13" tvg-id="Band Sao Paulo.br" tvg-name="Band SP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="TV Aberta", Band SP FHD
+http://nille121.com/live/11510295/p883A3269U/255465.m3u8
+#EXTINF:-1 tvg-number="413" tvg-id="Band Sao Paulo.br" tvg-name="Band SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="TV Aberta", Band SP HD
+http://nille121.com/live/11510295/p883A3269U/255467.m3u8
+#EXTINF:-1 tvg-number="19.0" tvg-id="Record News HD.br" tvg-name="Record News FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-0915xHU1M2H3Aw4z7FqylRNC4FNa47UlQ&s" group-title="TV Aberta", Record News FHD
+http://nille121.com/live/11510295/p883A3269U/488.m3u8
+#EXTINF:-1 tvg-number="19.1" tvg-id="Record News HD.br" tvg-name="Record News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-0915xHU1M2H3Aw4z7FqylRNC4FNa47UlQ&s" group-title="TV Aberta", Record News HD
+http://nille121.com/live/11510295/p883A3269U/486.m3u8
+#EXTINF:-1 tvg-number="23" tvg-id="TV Brasil HD.br" tvg-name="TV Brasil FHD" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="TV Aberta", TV Brasil FHD
+http://nille121.com/live/11510295/p883A3269U/364678.m3u8
+#EXTINF:-1 tvg-number="382" tvg-id="TV Brasil HD.br" tvg-name="TV Brasil HD" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="TV Aberta", TV Brasil HD
+http://nille121.com/live/11510295/p883A3269U/165.m3u8
+#EXTINF:-1 tvg-number="24" tvg-id="Rede Brasil HD.br" tvg-name="Rede Brasil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="TV Aberta", Rede Brasil FHD
+http://nille121.com/live/11510295/p883A3269U/364783.m3u8
+#EXTINF:-1 tvg-number="424" tvg-id="Rede Brasil HD.br" tvg-name="Rede Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="TV Aberta", Rede Brasil HD
+http://nille121.com/live/11510295/p883A3269U/46992.m3u8
+#EXTINF:-1 tvg-number="34" tvg-id="Futura HD.br" tvg-name="Futura FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="TV Aberta", Futura FHD
+http://nille121.com/live/11510295/p883A3269U/159.m3u8
+#EXTINF:-1 tvg-number="434" tvg-id="Futura HD.br" tvg-name="Futura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="TV Aberta", Futura HD
+http://nille121.com/live/11510295/p883A3269U/158.m3u8
+#EXTINF:-1 tvg-number="35" tvg-id="Off.br" tvg-name="Off FHD" tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/canal-off-logo-1.png" group-title="Document�rio", Off FHD
+http://nille121.com/live/11510295/p883A3269U/253.m3u8
+#EXTINF:-1 tvg-number="435" tvg-id="Off.br" tvg-name="Off HD" tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/canal-off-logo-1.png" group-title="Document�rio", Off HD
+http://nille121.com/live/11510295/p883A3269U/252.m3u8
+#EXTINF:-1 tvg-number="37" tvg-id="SporTV3 HD.br" tvg-name="SporTV 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/2560px-SporTV_3_2017_logo.svg.png" group-title="Esportes", SporTV 3 FHD
+http://nille121.com/live/11510295/p883A3269U/559.m3u8
+#EXTINF:-1 tvg-number="437" tvg-id="SporTV3.br" tvg-name="SporTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/2560px-SporTV_3_2017_logo.svg.png" group-title="Esportes", SporTV 3 HD
+http://nille121.com/live/11510295/p883A3269U/557.m3u8
+#EXTINF:-1 tvg-number="38" tvg-id="SporTV 2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/SporTV_2_logo_2011.png" group-title="Esportes", SporTV 2 FHD
+http://nille121.com/live/11510295/p883A3269U/554.m3u8
+#EXTINF:-1 tvg-number="438" tvg-id="SporTV 2.br" tvg-name="SporTV 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/SporTV_2_logo_2011.png" group-title="Esportes", SporTV 2 HD
+http://nille121.com/live/11510295/p883A3269U/552.m3u8
+#EXTINF:-1 tvg-number="39" tvg-id="SporTV HD.br" tvg-name="SporTV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHhLIsA0Vx0b7sZzfsoS71nmAg-Fv2S373YA&s" group-title="Esportes", SporTV FHD
+http://nille121.com/live/11510295/p883A3269U/118881.m3u8
+#EXTINF:-1 tvg-number="439" tvg-id="SporTV HD.br" tvg-name="SporTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHhLIsA0Vx0b7sZzfsoS71nmAg-Fv2S373YA&s" group-title="Esportes", SporTV HD
+http://nille121.com/live/11510295/p883A3269U/547.m3u8
+#EXTINF:-1 tvg-number="40" tvg-id="Globo News HD.br" tvg-name="GloboNews FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="Not�cias", GloboNews FHD
+http://nille121.com/live/11510295/p883A3269U/479.m3u8
+#EXTINF:-1 tvg-number="440" tvg-id="Globo News HD.br" tvg-name="GloboNews HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="Not�cias", GloboNews HD
+http://nille121.com/live/11510295/p883A3269U/478.m3u8
+#EXTINF:-1 tvg-number="41" tvg-id="GNT HD.br" tvg-name="GNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Variedades", GNT FHD
+http://nille121.com/live/11510295/p883A3269U/377238.m3u8
+#EXTINF:-1 tvg-number="441" tvg-id="GNT HD.br" tvg-name="GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Variedades", GNT HD
+http://nille121.com/live/11510295/p883A3269U/377239.m3u8
+#EXTINF:-1 tvg-number="42" tvg-id="Multishow HD.br" tvg-name="MultShow FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="Variedades", MultShow FHD
+http://nille121.com/live/11510295/p883A3269U/377241.m3u8
+#EXTINF:-1 tvg-number="442" tvg-id="Multishow HD.br" tvg-name="MultShow HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="Variedades", MultShow HD
+http://nille121.com/live/11510295/p883A3269U/377243.m3u8
+#EXTINF:-1 tvg-number="43" tvg-id="Viva HD.br" tvg-name="Viva FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/960px-Canal_Viva_2018_wordmark.svg.png" group-title="Variedades", Viva FHD
+http://nille121.com/live/11510295/p883A3269U/2537.m3u8
+#EXTINF:-1 tvg-number="443" tvg-id="VIVA HD.br" tvg-name="Viva HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/960px-Canal_Viva_2018_wordmark.svg.png" group-title="Variedades", Viva HD
+http://nille121.com/live/11510295/p883A3269U/2536.m3u8
+#EXTINF:-1 tvg-number="44" tvg-id="Modo Viagem.br" tvg-name="Modo Viagem FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/2560px-Logotipo_do_Modo_Viagem.svg.png" group-title="Variedades", Modo Viagem FHD
+http://nille121.com/live/11510295/p883A3269U/89181.m3u8
+#EXTINF:-1 tvg-number="443" tvg-id="Modo Viagem.br" tvg-name="Modo Viagem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/2560px-Logotipo_do_Modo_Viagem.svg.png" group-title="Variedades", Modo Viagem HD
+http://nille121.com/live/11510295/p883A3269U/89182.m3u8
+#EXTINF:-1 tvg-number="50" tvg-id="Discovery Kids HD.br" tvg-name="Discovery Kids FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Infantil", Discovery Kids FHD
+http://nille121.com/live/11510295/p883A3269U/364.m3u8
+#EXTINF:-1 tvg-number="450" tvg-id="Discovery Kids HD.br" tvg-name="Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Infantil", Discovery Kids HD
+http://nille121.com/live/11510295/p883A3269U/363.m3u8
+#EXTINF:-1 tvg-number="51" tvg-id="Gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png" group-title="Infantil", Gloobinho FHD
+http://nille121.com/live/11510295/p883A3269U/377232.m3u8
+#EXTINF:-1 tvg-number="451" tvg-id="Gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png" group-title="Infantil", Gloobinho HD
+http://nille121.com/live/11510295/p883A3269U/377234.m3u8
+#EXTINF:-1 tvg-number="52" tvg-id="ZooMoo Kids HD.br" tvg-name="ZooMoo Kids FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFEMYWw5mGKuSBUXWbvUi88Hk1h01acUNSGVYNmMaSUTz_-fuu86aWk36V2V48JFO8_VnCY-UaqIq4cpNAvSl_wyWmozhiDc9-BgWIRfbbNF65-lji5RJEaOILS8Dz1SRVbQYGeXG-FSc/s640/61041410.png" group-title="Infantil", ZooMoo Kids FHD
+http://nille121.com/live/11510295/p883A3269U/311639.m3u8
+#EXTINF:-1 tvg-number="56" tvg-id="Gloob HD.br" tvg-name="Gloob FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQyf1ANZoD7sfUYhaEo5tgJD9XfXArog3fWw&s" group-title="Infantil", Gloob FHD
+http://nille121.com/live/11510295/p883A3269U/377228.m3u8
+#EXTINF:-1 tvg-number="456" tvg-id="Gloob HD.br" tvg-name="Gloob HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQyf1ANZoD7sfUYhaEo5tgJD9XfXArog3fWw&s" group-title="Infantil", Gloob HD
+http://nille121.com/live/11510295/p883A3269U/377229.m3u8
+#EXTINF:-1 tvg-number="57" tvg-id="Nickelodeon HD.br" tvg-name="Nickelodeon FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil", Nickelodeon FHD
+http://nille121.com/live/11510295/p883A3269U/372.m3u8
+#EXTINF:-1 tvg-number="457" tvg-id="Nick HD.br" tvg-name="Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil", Nickelodeon HD
+http://nille121.com/live/11510295/p883A3269U/371.m3u8
+#EXTINF:-1 tvg-number="58" tvg-id="Nick Jr. HD.br" tvg-name="NickJr FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="Infantil", NickJr FHD
+http://nille121.com/live/11510295/p883A3269U/368.m3u8
+#EXTINF:-1 tvg-number="458" tvg-id="Nick Jr. HD.br" tvg-name="NickJr HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="Infantil", NickJr HD
+http://nille121.com/live/11510295/p883A3269U/367.m3u8
+#EXTINF:-1 tvg-number="60" tvg-id="Cartoon Network Brazil HD.br" tvg-name="Cartoon Network FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil", Cartoon Network FHD
+http://nille121.com/live/11510295/p883A3269U/352.m3u8
+#EXTINF:-1 tvg-number="460" tvg-id="Cartoon HD.br" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil", Cartoon Network HD
+http://nille121.com/live/11510295/p883A3269U/351.m3u8
+#EXTINF:-1 tvg-number="70" tvg-id="Discovery.br" tvg-name="Discovery Channel FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Document�rio", Discovery Channel FHD
+http://nille121.com/live/11510295/p883A3269U/2577.m3u8
+#EXTINF:-1 tvg-number="470" tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="Document�rio", Discovery Channel HD
+http://nille121.com/live/11510295/p883A3269U/2575.m3u8
+#EXTINF:-1 tvg-number="71" tvg-id="Animal Planet HD.br" tvg-name="Animal Planet FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Document�rio", Animal Planet FHD
+http://nille121.com/live/11510295/p883A3269U/2602.m3u8
+#EXTINF:-1 tvg-number="471" tvg-id="Animal Planet HD.br" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Document�rio", Animal Planet HD
+http://nille121.com/live/11510295/p883A3269U/365234.m3u8
+#EXTINF:-1 tvg-number="76" tvg-id="HISTORY CHANNEL HD.br" tvg-name="History FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Document�rio", History FHD
+http://nille121.com/live/11510295/p883A3269U/2617.m3u8
+#EXTINF:-1 tvg-number="476" tvg-id="History Channel.br" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Document�rio", History HD
+http://nille121.com/live/11510295/p883A3269U/2615.m3u8
+#EXTINF:-1 tvg-number="81.1" tvg-id="Arte 1 HD.br" tvg-name="Arte 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="Document�rio", Arte 1 FHD
+http://nille121.com/live/11510295/p883A3269U/2607.m3u8
+#EXTINF:-1 tvg-number="81.2" tvg-id="Arte 1 HD.br" tvg-name="Arte 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="Document�rio", Arte 1 HD
+http://nille121.com/live/11510295/p883A3269U/367046.m3u8
+#EXTINF:-1 tvg-number="83" tvg-id="Travel Box Brazil HD.br" tvg-name="Travel Box Brasil FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="Variedades", Travel Box Brasil FHD
+http://nille121.com/live/11510295/p883A3269U/376353.m3u8
+#EXTINF:-1 tvg-number="483" tvg-id="Travel Box Brazil HD.br" tvg-name="Travel Box Brasil HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="Variedades", Travel Box Brasil HD
+http://nille121.com/live/11510295/p883A3269U/376354.m3u8
+#EXTINF:-1 tvg-number="85" tvg-id="Discovery HomeAndHealth HD.br" tvg-name="h&h discovery FHD" tvg-logo="https://www.tvprogramacao.com/static/storage/app/epg_channel_icons/4a9/768/4a97689f-6b62-4c2a-b6ab-c9c92c4d4eaf.png" group-title="Document�rio", h&h discovery FHD
+http://nille121.com/live/11510295/p883A3269U/2572.m3u8
+#EXTINF:-1 tvg-number="485" tvg-id="Discovery Home and Health.br" tvg-name="h&h discovery HD" tvg-logo="https://www.tvprogramacao.com/static/storage/app/epg_channel_icons/4a9/768/4a97689f-6b62-4c2a-b6ab-c9c92c4d4eaf.png" group-title="Document�rio", h&h discovery HD
+http://nille121.com/live/11510295/p883A3269U/2570.m3u8
+#EXTINF:-1 tvg-number="86" tvg-id="TLC HD.br" tvg-name="TLC FHD" tvg-logo="https://www.vhv.rs/dpng/d/313-3132318_tlc-channel-hd-png-download.png" group-title="Document�rio", TLC FHD
+http://nille121.com/live/11510295/p883A3269U/728.m3u8
+#EXTINF:-1 tvg-number="486" tvg-id="TLC HD.br" tvg-name="TLC HD" tvg-logo="https://www.vhv.rs/dpng/d/313-3132318_tlc-channel-hd-png-download.png" group-title="Document�rio", TLC HD
+http://nille121.com/live/11510295/p883A3269U/726.m3u8
+#EXTINF:-1 tvg-number="90" tvg-id="Lifetime Brazil.br" tvg-name="LifeTime FHD" tvg-logo="https://1000logos.net/wp-content/uploads/2025/07/Lifetime-Logo.png" group-title="S�ries", LifeTime FHD
+http://nille121.com/live/11510295/p883A3269U/2488.m3u8
+#EXTINF:-1 tvg-number="490" tvg-id="Lifetime Brazil.br" tvg-name="LifeTime HD" tvg-logo="https://1000logos.net/wp-content/uploads/2025/07/Lifetime-Logo.png" group-title="S�ries", LifeTime HD
+http://nille121.com/live/11510295/p883A3269U/2487.m3u8
+#EXTINF:-1 tvg-number="91" tvg-id="E!.br" tvg-name="E! FHD" tvg-logo="https://e7.pngegg.com/pngimages/466/7/png-clipart-e-television-channel-television-show-logo-tv-x-letter-television-angle.png" group-title="Variedades", E! FHD
+http://nille121.com/live/11510295/p883A3269U/2472.m3u8
+#EXTINF:-1 tvg-number="491" tvg-id="E!.br" tvg-name="E! HD" tvg-logo="https://e7.pngegg.com/pngimages/466/7/png-clipart-e-television-channel-television-show-logo-tv-x-letter-television-angle.png" group-title="Variedades", E! HD
+http://nille121.com/live/11510295/p883A3269U/2471.m3u8
+#EXTINF:-1 tvg-number="100" tvg-id="Telecine Premium HD.br" tvg-name="Telecine Premium FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/TCPremium3D.png/revision/latest/scale-to-width-down/1200?cb=20151120222749" group-title="Filmes", Telecine Premium FHD
+http://nille121.com/live/11510295/p883A3269U/635.m3u8
+#EXTINF:-1 tvg-number="500" tvg-id="Telecine Premium HD.br" tvg-name="Telecine Premium HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/TCPremium3D.png/revision/latest/scale-to-width-down/1200?cb=20151120222749" group-title="Filmes", Telecine Premium HD
+http://nille121.com/live/11510295/p883A3269U/633.m3u8
+#EXTINF:-1 tvg-number="101" tvg-id="Telecine Action HD.br" tvg-name="Telecine Action FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Telecine_Action.png" group-title="Filmes", Telecine Action FHD
+http://nille121.com/live/11510295/p883A3269U/615.m3u8
+#EXTINF:-1 tvg-number="501" tvg-id="Telecine Action HD.br" tvg-name="Telecine Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Telecine_Action.png" group-title="Filmes", Telecine Action HD
+http://nille121.com/live/11510295/p883A3269U/613.m3u8
+#EXTINF:-1 tvg-number="102" tvg-id="Telecine Touch HD.br" tvg-name="Telecine Touch FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png" group-title="Filmes", Telecine Touch FHD
+http://nille121.com/live/11510295/p883A3269U/589.m3u8
+#EXTINF:-1 tvg-number="502" tvg-id="Telecine Touch HD.br" tvg-name="Telecine Touch HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png" group-title="Filmes", Telecine Touch HD
+http://nille121.com/live/11510295/p883A3269U/587.m3u8
+#EXTINF:-1 tvg-number="103" tvg-id="Telecine Pipoca HD.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="Filmes", Telecine Pipoca FHD
+http://nille121.com/live/11510295/p883A3269U/630.m3u8
+#EXTINF:-1 tvg-number="503" tvg-id="Telecine Pipoca HD.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="Filmes", Telecine Pipoca HD
+http://nille121.com/live/11510295/p883A3269U/628.m3u8
+#EXTINF:-1 tvg-number="104" tvg-id="Telecine Fun HD.br" tvg-name="Telecine Fun FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun-hd_m.png" group-title="Filmes", Telecine Fun FHD
+http://nille121.com/live/11510295/p883A3269U/625.m3u8
+#EXTINF:-1 tvg-number="504" tvg-id="Telecine Fun HD.br" tvg-name="Telecine Fun HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun-hd_m.png" group-title="Filmes", Telecine Fun HD
+http://nille121.com/live/11510295/p883A3269U/623.m3u8
+#EXTINF:-1 tvg-number="105" tvg-id="Telecine Cult HD.br" tvg-name="Telecine Cult FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112" group-title="Filmes", Telecine Cult FHD
+http://nille121.com/live/11510295/p883A3269U/620.m3u8
+#EXTINF:-1 tvg-number="505" tvg-id="Telecine Cult HD.br" tvg-name="Telecine Cult HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112" group-title="Filmes", Telecine Cult HD
+http://nille121.com/live/11510295/p883A3269U/618.m3u8
+#EXTINF:-1 tvg-number="107" tvg-id="Megapix HD.br" tvg-name="Megapix FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="Filmes", Megapix FHD
+http://nille121.com/live/11510295/p883A3269U/692.m3u8
+#EXTINF:-1 tvg-number="507" tvg-id="Megapix HD.br" tvg-name="Megapix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="Filmes", Megapix HD
+http://nille121.com/live/11510295/p883A3269U/690.m3u8
+#EXTINF:-1 tvg-number="108" tvg-id="TNT HD.br" tvg-name="TNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Filmes", TNT FHD
+http://nille121.com/live/11510295/p883A3269U/733.m3u8
+#EXTINF:-1 tvg-number="508" tvg-id="TNT HD.br" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Filmes", TNT HD
+http://nille121.com/live/11510295/p883A3269U/731.m3u8
+#EXTINF:-1 tvg-number="109" tvg-id="Cinemax HD.br" tvg-name="Cinemax FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Filmes", Cinemax FHD
+http://nille121.com/live/11510295/p883A3269U/682.m3u8
+#EXTINF:-1 tvg-number="509" tvg-id="Cinemax HD.br" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Filmes", Cinemax HD
+http://nille121.com/live/11510295/p883A3269U/680.m3u8
+#EXTINF:-1 tvg-number="110" tvg-id="Space HD.br" tvg-name="Space FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1200px-SpaceLogo.svg.png" group-title="Filmes", Space FHD
+http://nille121.com/live/11510295/p883A3269U/707.m3u8
+#EXTINF:-1 tvg-number="510" tvg-id="Space HD.br" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1200px-SpaceLogo.svg.png" group-title="Filmes", Space HD
+http://nille121.com/live/11510295/p883A3269U/705.m3u8
+#EXTINF:-1 tvg-number="111" tvg-id="Studio Universal HD.br" tvg-name="Studio Universal FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png" group-title="Filmes", Studio Universal FHD
+http://nille121.com/live/11510295/p883A3269U/713.m3u8
+#EXTINF:-1 tvg-number="511" tvg-id="Studio Universal HD.br" tvg-name="Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png" group-title="Filmes", Studio Universal HD
+http://nille121.com/live/11510295/p883A3269U/711.m3u8
+#EXTINF:-1 tvg-number="113" tvg-id="Canal Brasil HD.br" tvg-name="Canal Brasil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Filmes", Canal Brasil FHD
+http://nille121.com/live/11510295/p883A3269U/146.m3u8
+#EXTINF:-1 tvg-number="513" tvg-id="Canal Brasil HD.br" tvg-name="Canal Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Filmes", Canal Brasil HD
+http://nille121.com/live/11510295/p883A3269U/145.m3u8
+#EXTINF:-1 tvg-number="114" tvg-id="AMC Brasil.br" tvg-name="AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Filmes", AMC FHD
+http://nille121.com/live/11510295/p883A3269U/671.m3u8
+#EXTINF:-1 tvg-number="514" tvg-id="AMC HD.br" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Filmes", AMC HD
+http://nille121.com/live/11510295/p883A3269U/669.m3u8
+#EXTINF:-1 tvg-number="115" tvg-id="TCM.br" tvg-name="TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Filmes", TCM FHD
+http://nille121.com/live/11510295/p883A3269U/740.m3u8
+#EXTINF:-1 tvg-number="117" tvg-id="Paramount Network.br" tvg-name="Paramount Network FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtf_RNuaRcuDaz6B5LrNb-ctsIPfoFGfSSw&s" group-title="Filmes", Paramount Network FHD
+http://nille121.com/live/11510295/p883A3269U/697.m3u8
+#EXTINF:-1 tvg-number="517" tvg-id="Paramount Network.br" tvg-name="Paramount Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtf_RNuaRcuDaz6B5LrNb-ctsIPfoFGfSSw&s" group-title="Filmes", Paramount Network HD
+http://nille121.com/live/11510295/p883A3269U/695.m3u8
+#EXTINF:-1 tvg-number="120" tvg-id="HBO HD.br" tvg-name="HBO FHD" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Filmes", HBO FHD
+http://nille121.com/live/11510295/p883A3269U/18751.m3u8
+#EXTINF:-1 tvg-number="520" tvg-id="HBO HD.br" tvg-name="HBO HD" tvg-logo="https://i.pinimg.com/736x/8b/02/00/8b020050690f955ccb306cdf51324aea.jpg" group-title="Filmes", HBO HD
+http://nille121.com/live/11510295/p883A3269U/18752.m3u8
+#EXTINF:-1 tvg-number="121" tvg-id="HBO 2.br" tvg-name="HBO2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Filmes", HBO2 FHD
+http://nille121.com/live/11510295/p883A3269U/18755.m3u8
+#EXTINF:-1 tvg-number="521" tvg-id="HBO2.br" tvg-name="HBO2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Filmes", HBO2 HD
+http://nille121.com/live/11510295/p883A3269U/18756.m3u8
+#EXTINF:-1 tvg-number="122" tvg-id="HBO Plus HD.br" tvg-name="HBO+ UHD" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/hbo-plus-8b242e53.png?fit=500%2C500&ssl=1" group-title="Filmes", HBO+ UHD
+http://nille121.com/live/11510295/p883A3269U/21249.m3u8
+#EXTINF:-1 tvg-number="522" tvg-id="HBO Plus HD.br" tvg-name="HBO+ HD" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/hbo-plus-8b242e53.png?fit=500%2C500&ssl=1" group-title="Filmes", HBO+ HD
+http://nille121.com/live/11510295/p883A3269U/18764.m3u8
+#EXTINF:-1 tvg-number="124" tvg-id="HBO Family HD.br" tvg-name="HBO Family FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/HBO_Family_LATAM_%28Teal%29.svg/revision/latest/scale-to-width-down/200?cb=20240323210212" group-title="Filmes", HBO Family FHD
+http://nille121.com/live/11510295/p883A3269U/18759.m3u8
+#EXTINF:-1 tvg-number="524" tvg-id="HBO Family HD.br" tvg-name="HBO Family HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/HBO_Family_LATAM_%28Teal%29.svg/revision/latest/scale-to-width-down/200?cb=20240323210212" group-title="Filmes", HBO Family HD
+http://nille121.com/live/11510295/p883A3269U/18760.m3u8
+#EXTINF:-1 tvg-number="125" tvg-id="HBO Signature HD.br" tvg-name="HBO Signature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="Filmes", HBO Signature FHD
+http://nille121.com/live/11510295/p883A3269U/18767.m3u8
+#EXTINF:-1 tvg-number="525" tvg-id="HBO Signature HD.br" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="Filmes", HBO Signature HD
+http://nille121.com/live/11510295/p883A3269U/18768.m3u8
+#EXTINF:-1 tvg-number="126" tvg-id="HBO Mundi.br" tvg-name="HBO Mundi FHD" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/d/d3/Hbomundi.png/revision/latest?cb=20200216144600&path-prefix=pt-br" group-title="Filmes", HBO Mundi FHD
+http://nille121.com/live/11510295/p883A3269U/18771.m3u8
+#EXTINF:-1 tvg-number="526" tvg-id="HBO Mundi.br" tvg-name="HBO Mundi HD" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/d/d3/Hbomundi.png/revision/latest?cb=20200216144600&path-prefix=pt-br" group-title="Filmes", HBO Mundi HD
+http://nille121.com/live/11510295/p883A3269U/18772.m3u8
+#EXTINF:-1 tvg-number="127" tvg-id="HBO Pop.br" tvg-name="HBO Pop FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Filmes", HBO Pop FHD
+http://nille121.com/live/11510295/p883A3269U/18779.m3u8
+#EXTINF:-1 tvg-number="527" tvg-id="HBO Pop.br" tvg-name="HBO Pop HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Filmes", HBO Pop HD
+http://nille121.com/live/11510295/p883A3269U/18780.m3u8
+#EXTINF:-1 tvg-number="128" tvg-id="HBO Xtreme.br" tvg-name="HBO XTreme FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220352" group-title="Filmes", HBO XTreme FHD
+http://nille121.com/live/11510295/p883A3269U/18775.m3u8
+#EXTINF:-1 tvg-number="528" tvg-id="HBO Xtreme.br" tvg-name="HBO XTreme HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220352" group-title="Filmes", HBO XTreme HD
+http://nille121.com/live/11510295/p883A3269U/18776.m3u8
+#EXTINF:-1 tvg-number="136" tvg-id="AXN HD.br" tvg-name="AXN FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMpELJrYH7D81zVpTgT7T96pw0EQCfsgD7A&s" group-title="S�ries", AXN FHD
+http://nille121.com/live/11510295/p883A3269U/676.m3u8
+#EXTINF:-1 tvg-number="536" tvg-id="AXN HD.br" tvg-name="AXN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMpELJrYH7D81zVpTgT7T96pw0EQCfsgD7A&s" group-title="S�ries", AXN HD
+http://nille121.com/live/11510295/p883A3269U/674.m3u8
+#EXTINF:-1 tvg-number="137" tvg-id="Sony HD.br" tvg-name="Sony FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/2048px-Sony_Channel_Logo_2019.svg.png" group-title="S�ries", Sony FHD
+http://nille121.com/live/11510295/p883A3269U/702.m3u8
+#EXTINF:-1 tvg-number="537" tvg-id="Sony HD.br" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/2048px-Sony_Channel_Logo_2019.svg.png" group-title="S�ries", Sony HD
+http://nille121.com/live/11510295/p883A3269U/700.m3u8
+#EXTINF:-1 tvg-number="138" tvg-id="AandE.br" tvg-name="A&E FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png" group-title="S�ries", A&E FHD
+http://nille121.com/live/11510295/p883A3269U/666.m3u8
+#EXTINF:-1 tvg-number="538" tvg-id="AandE.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png" group-title="S�ries", A&E HD
+http://nille121.com/live/11510295/p883A3269U/664.m3u8
+#EXTINF:-1 tvg-number="139" tvg-id="Warner Channel HD.br" tvg-name="Warner Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="S�ries", Warner Channel FHD
+http://nille121.com/live/11510295/p883A3269U/749.m3u8
+#EXTINF:-1 tvg-number="539" tvg-id="Warner Channel HD.br" tvg-name="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="S�ries", Warner Channel HD
+http://nille121.com/live/11510295/p883A3269U/746.m3u8
+#EXTINF:-1 tvg-number="140" tvg-id="Universal HD.br" tvg-name="Universal TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Filmes", Universal TV FHD
+http://nille121.com/live/11510295/p883A3269U/743.m3u8
+#EXTINF:-1 tvg-number="540" tvg-id="Universal.br" tvg-name="Universal TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Filmes", Universal TV HD
+http://nille121.com/live/11510295/p883A3269U/742.m3u8
+#EXTINF:-1 tvg-number="149" tvg-id="ID HD.br" tvg-name="Discovery ID FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png/500px-ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="S�ries", Discovery ID FHD
+http://nille121.com/live/11510295/p883A3269U/2632.m3u8
+#EXTINF:-1 tvg-number="549" tvg-id="ID HD.br" tvg-name="Discovery ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png/500px-ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="S�ries", Discovery ID HD
+http://nille121.com/live/11510295/p883A3269U/2630.m3u8
+#EXTINF:-1 tvg-number="150" tvg-id="TNT Series HD.br" tvg-name="TNT S�ries FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="S�ries", TNT S�ries FHD
+http://nille121.com/live/11510295/p883A3269U/738.m3u8
+#EXTINF:-1 tvg-number="550" tvg-id="TNT Series HD.br" tvg-name="TNT S�ries HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="S�ries", TNT S�ries HD
+http://nille121.com/live/11510295/p883A3269U/736.m3u8
+#EXTINF:-1 tvg-number="155.1" tvg-id="TNT Novelas.br" tvg-name="TNT Novelas FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="S�ries", TNT Novelas FHD
+http://nille121.com/live/11510295/p883A3269U/264555.m3u8
+#EXTINF:-1 tvg-number="155.2" tvg-id="TNT Novelas.br" tvg-name="TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="S�ries", TNT Novelas HD
+http://nille121.com/live/11510295/p883A3269U/264556.m3u8
+#EXTINF:-1 tvg-number="158" tvg-id="Comedy Central HD.br" tvg-name="Comedy Central FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="Variedades", Comedy Central FHD
+http://nille121.com/live/11510295/p883A3269U/687.m3u8
+#EXTINF:-1 tvg-number="558" tvg-id="Comedy Central HD.br" tvg-name="Comedy Central HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="Variedades", Comedy Central HD
+http://nille121.com/live/11510295/p883A3269U/685.m3u8
+#EXTINF:-1 tvg-number="159" tvg-id="MTV HD.br" tvg-name="MTV FHD" tvg-logo="https://tothecrux.com/wp-content/uploads/2017/02/mtv-1.png" group-title="Variedades", MTV FHD
+http://nille121.com/live/11510295/p883A3269U/2504.m3u8
+#EXTINF:-1 tvg-number="559" tvg-id="MTV HD.br" tvg-name="MTV HD" tvg-logo="https://tothecrux.com/wp-content/uploads/2017/02/mtv-1.png" group-title="Variedades", MTV HD
+http://nille121.com/live/11510295/p883A3269U/2503.m3u8
+#EXTINF:-1 tvg-number="160" tvg-id="BIS HD.br" tvg-name="Bis FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Variedades", Bis FHD
+http://nille121.com/live/11510295/p883A3269U/376504.m3u8
+#EXTINF:-1 tvg-number="560" tvg-id="BIS HD.br" tvg-name="Bis HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Variedades", Bis HD
+http://nille121.com/live/11510295/p883A3269U/376503.m3u8
+#EXTINF:-1 tvg-number="162.1" tvg-id="Fish TV HD.br" tvg-name="Fish TV FHD" tvg-logo="https://i.pinimg.com/736x/a6/19/c5/a619c5c1b63a12cbaf1e8c6b73de25d5.jpg" group-title="Variedades", Fish TV FHD
+http://nille121.com/live/11510295/p883A3269U/249.m3u8
+#EXTINF:-1 tvg-number="162.2" tvg-id="FishTV.br" tvg-name="Fish TV HD" tvg-logo="https://i.pinimg.com/736x/a6/19/c5/a619c5c1b63a12cbaf1e8c6b73de25d5.jpg" group-title="Variedades", Fish TV HD
+http://nille121.com/live/11510295/p883A3269U/248.m3u8
+#EXTINF:-1 tvg-number="171" tvg-id="Bandnews HD.br" tvg-name="BandNews FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Band-news-logo.jpg/revision/latest?cb=20170108002004" group-title="Not�cias", BandNews FHD
+http://nille121.com/live/11510295/p883A3269U/469.m3u8
+#EXTINF:-1 tvg-number="571" tvg-id="Bandnews HD.br" tvg-name="BandNews HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Band-news-logo.jpg/revision/latest?cb=20170108002004" group-title="Not�cias", BandNews HD
+http://nille121.com/live/11510295/p883A3269U/467.m3u8
+#EXTINF:-1 tvg-number="174.1" tvg-id="CNN International.br" tvg-name="CNN Internacional HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/744px-CNN-International-Logo.svg.png" group-title="Not�cias", CNN Internacional HD
+http://nille121.com/live/11510295/p883A3269U/118886.m3u8
+#EXTINF:-1 tvg-number="174.2" tvg-id="CNN International.br" tvg-name="CNN Internacional SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/744px-CNN-International-Logo.svg.png" group-title="Not�cias", CNN Internacional SD
+http://nille121.com/live/11510295/p883A3269U/118887.m3u8
+#EXTINF:-1 tvg-number="177" tvg-id="CNN Brasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Not�cias", CNN Brasil FHD
+http://nille121.com/live/11510295/p883A3269U/474.m3u8
+#EXTINF:-1 tvg-number="577" tvg-id="CNN Brasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Not�cias", CNN Brasil HD
+http://nille121.com/live/11510295/p883A3269U/472.m3u8
+#EXTINF:-1 tvg-number="190" tvg-id="Combate HD.br" tvg-name="Combate FHD" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="Esportes", Combate FHD
+http://nille121.com/live/11510295/p883A3269U/240.m3u8
+#EXTINF:-1 tvg-number="590" tvg-id="Combate HD.br" tvg-name="Combate HD" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="Esportes", Combate HD
+http://nille121.com/live/11510295/p883A3269U/238.m3u8
+#EXTINF:-1 tvg-number="191" tvg-id="WooHoo HD.br" tvg-name="Woohoo FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png" group-title="Esportes", Woohoo FHD
+http://nille121.com/live/11510295/p883A3269U/2541.m3u8
+#EXTINF:-1 tvg-number="591" tvg-id="WooHoo HD.br" tvg-name="Woohoo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png" group-title="Esportes", Woohoo HD
+http://nille121.com/live/11510295/p883A3269U/2540.m3u8
+#EXTINF:-1 tvg-number="194" tvg-id="ESPN 4.br" tvg-name="ESPN4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="Esportes", ESPN4 FHD
+http://nille121.com/live/11510295/p883A3269U/225.m3u8
+#EXTINF:-1 tvg-number="594" tvg-id="ESPN 4.br" tvg-name="ESPN4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="Esportes", ESPN4 HD
+http://nille121.com/live/11510295/p883A3269U/223.m3u8
+#EXTINF:-1 tvg-number="197" tvg-id="ESPN HD.br" tvg-name="ESPN2 FHD" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2016/02/ESPN2-300x98.png" group-title="Esportes", ESPN2 FHD
+http://nille121.com/live/11510295/p883A3269U/215.m3u8
+#EXTINF:-1 tvg-number="597" tvg-id="ESPN HD.br" tvg-name="ESPN2 HD" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2016/02/ESPN2-300x98.png" group-title="Esportes", ESPN2 HD
+http://nille121.com/live/11510295/p883A3269U/213.m3u8
+#EXTINF:-1 tvg-number="198" tvg-id="ESPN Brasil.br" tvg-name="ESPN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Esportes", ESPN FHD
+http://nille121.com/live/11510295/p883A3269U/309458.m3u8
+#EXTINF:-1 tvg-number="598" tvg-id="ESPN Brasil.br" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Esportes", ESPN HD
+http://nille121.com/live/11510295/p883A3269U/520127.m3u8
+#EXTINF:-1 tvg-number="210" tvg-id="BandSports HD.br" tvg-name="Band Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Esportes", Band Sports FHD
+http://nille121.com/live/11510295/p883A3269U/235.m3u8
+#EXTINF:-1 tvg-number="510" tvg-id="BandSports.br" tvg-name="Band Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="Esportes", Band Sports HD
+http://nille121.com/live/11510295/p883A3269U/233.m3u8
+#EXTINF:-1 tvg-number="230" tvg-id="Premiere Clubes HD.br" tvg-name="Premiere 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 1 FHD
+http://nille121.com/live/11510295/p883A3269U/494.m3u8
+#EXTINF:-1 tvg-number="233" tvg-id="Premiere Clubes HD.br" tvg-name="Premiere 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 1 HD
+http://nille121.com/live/11510295/p883A3269U/492.m3u8
+#EXTINF:-1 tvg-number="234" tvg-id="Premiere 2.br" tvg-name="Premiere 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 2 FHD
+http://nille121.com/live/11510295/p883A3269U/499.m3u8
+#EXTINF:-1 tvg-number="634" tvg-id="Premiere 2.br" tvg-name="Premiere 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 2 HD
+http://nille121.com/live/11510295/p883A3269U/497.m3u8
+#EXTINF:-1 tvg-number="235" tvg-id="Premiere 3 HD.br" tvg-name="Premiere 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 3 FHD
+http://nille121.com/live/11510295/p883A3269U/504.m3u8
+#EXTINF:-1 tvg-number="635" tvg-id="Premiere 3.br" tvg-name="Premiere 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 3 HD
+http://nille121.com/live/11510295/p883A3269U/502.m3u8
+#EXTINF:-1 tvg-number="236" tvg-id="Premiere 4.br" tvg-name="Premiere 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 4 FHD
+http://nille121.com/live/11510295/p883A3269U/509.m3u8
+#EXTINF:-1 tvg-number="636" tvg-id="Premiere 4.br" tvg-name="Premiere 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 4 HD
+http://nille121.com/live/11510295/p883A3269U/507.m3u8
+#EXTINF:-1 tvg-number="237" tvg-id="Premiere 5 Brazil.br" tvg-name="Premiere 5 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 5 FHD
+http://nille121.com/live/11510295/p883A3269U/514.m3u8
+#EXTINF:-1 tvg-number="637" tvg-id="Premiere 5 Brazil.br" tvg-name="Premiere 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 5 HD
+http://nille121.com/live/11510295/p883A3269U/512.m3u8
+#EXTINF:-1 tvg-number="238" tvg-id="Premiere 6.br" tvg-name="Premiere 6 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 6 FHD
+http://nille121.com/live/11510295/p883A3269U/519.m3u8
+#EXTINF:-1 tvg-number="638" tvg-id="Premiere 6.br" tvg-name="Premiere 6 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 6 HD
+http://nille121.com/live/11510295/p883A3269U/517.m3u8
+#EXTINF:-1 tvg-number="239" tvg-id="Premiere 7 HD.br" tvg-name="Premiere 7 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 7 FHD
+http://nille121.com/live/11510295/p883A3269U/524.m3u8
+#EXTINF:-1 tvg-number="639" tvg-id="Premiere 7.br" tvg-name="Premiere 7 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Esportes", Premiere 7 HD
+http://nille121.com/live/11510295/p883A3269U/522.m3u8
+#EXTINF:-1 tvg-number="461.1" tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil", Cartoonito FHD
+http://nille121.com/live/11510295/p883A3269U/110683.m3u8
+#EXTINF:-1 tvg-number="461.2" tvg-id="Cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil", Cartoonito HD
+http://nille121.com/live/11510295/p883A3269U/110684.m3u8
+#EXTINF:-1 tvg-number="472.1" tvg-id="Discovery Turbo HD.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://static.latamwbd.com/2023-02/Discovery%20Turbo%20Logo.png?w=160" group-title="Document�rio", Discovery Turbo FHD
+http://nille121.com/live/11510295/p883A3269U/2592.m3u8
+#EXTINF:-1 tvg-number="472.2" tvg-id="Discovery Turbo HD.br" tvg-name="Discovery Turbo HD" tvg-logo="https://static.latamwbd.com/2023-02/Discovery%20Turbo%20Logo.png?w=160" group-title="Document�rio", Discovery Turbo HD
+http://nille121.com/live/11510295/p883A3269U/2590.m3u8
+#EXTINF:-1 tvg-number="473.1" tvg-id="Discovery Theater.br" tvg-name="Discovery Theater FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="Document�rio", Discovery Theater FHD
+http://nille121.com/live/11510295/p883A3269U/2587.m3u8
+#EXTINF:-1 tvg-number="473.2" tvg-id="Discovery Theater.br" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="Document�rio", Discovery Theater HD
+http://nille121.com/live/11510295/p883A3269U/2585.m3u8
+#EXTINF:-1 tvg-number="474.1" tvg-id="Discovery Science HD.br" tvg-name="Discovery Science FHD" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="Document�rio", Discovery Science FHD
+http://nille121.com/live/11510295/p883A3269U/2582.m3u8
+#EXTINF:-1 tvg-number="474.2" tvg-id="Discovery Science HD.br" tvg-name="Discovery Science HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="Document�rio", Discovery Science HD
+http://nille121.com/live/11510295/p883A3269U/2580.m3u8
+#EXTINF:-1 tvg-number="477.1" tvg-id="H2 HD.br" tvg-name="History 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Document�rio", History 2 FHD
+http://nille121.com/live/11510295/p883A3269U/2622.m3u8
+#EXTINF:-1 tvg-number="477.2" tvg-id="H2 HD.br" tvg-name="History 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Document�rio", History 2 HD
+http://nille121.com/live/11510295/p883A3269U/2620.m3u8
+#EXTINF:-1 tvg-number="487.1" tvg-id="Discovery World.br" tvg-name="Discovery World FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Document�rio", Discovery World FHD
+http://nille121.com/live/11510295/p883A3269U/2597.m3u8
+#EXTINF:-1 tvg-number="487.2" tvg-id="Discovery World.br" tvg-name="Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Document�rio", Discovery World HD
+http://nille121.com/live/11510295/p883A3269U/2595.m3u8
+#EXTINF:-1 tvg-number="489.1" tvg-id="HGTV HD.br" tvg-name="HGTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Document�rio", HGTV FHD
+http://nille121.com/live/11510295/p883A3269U/2627.m3u8
+#EXTINF:-1 tvg-number="489.2" tvg-id="HGTV HD.br" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Document�rio", HGTV HD
+http://nille121.com/live/11510295/p883A3269U/2625.m3u8
+#EXTINF:-1 tvg-number="492.1" tvg-id="Food Network HD Brasil.br" tvg-name="Food Network FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="S�ries", Food Network FHD
+http://nille121.com/live/11510295/p883A3269U/2480.m3u8
+#EXTINF:-1 tvg-number="492.2" tvg-id="Food Network HD Brasil.br" tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="S�ries", Food Network HD
+http://nille121.com/live/11510295/p883A3269U/2479.m3u8
+#EXTINF:-1 tvg-number="550" tvg-id="Tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Variedades", Tooncast HD
+http://nille121.com/live/11510295/p883A3269U/580843.m3u8
+#EXTINF:-1 tvg-number="551.1" tvg-id="Adult Swim.br" tvg-name="Adult Swim FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Variedades", Adult Swim FHD
+http://nille121.com/live/11510295/p883A3269U/376344.m3u8
+#EXTINF:-1 tvg-number="551.2" tvg-id="Adult Swim.br" tvg-name="Adult Swim HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Variedades", Adult Swim HD
+http://nille121.com/live/11510295/p883A3269U/376345.m3u8
+#EXTINF:-1 tvg-number="575.1" tvg-id="Jovem Pan News.br" tvg-name="Jovem Pan News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="Not�cias", Jovem Pan News FHD
+http://nille121.com/live/11510295/p883A3269U/483.m3u8
+#EXTINF:-1 tvg-number="575.2" tvg-id="Jovem Pan News.br" tvg-name="Jovem Pan News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="Not�cias", Jovem Pan News HD
+http://nille121.com/live/11510295/p883A3269U/482.m3u8
+#EXTINF:-1 tvg-number="595.1" tvg-id="ESPN 6.br" tvg-name="ESPN 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="Esportes", ESPN 6 FHD
+http://nille121.com/live/11510295/p883A3269U/563035.m3u8
+#EXTINF:-1 tvg-number="595.2" tvg-id="ESPN 6.br" tvg-name="ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="Esportes", ESPN 6 HD
+http://nille121.com/live/11510295/p883A3269U/563036.m3u8
+#EXTINF:-1 tvg-number="559.1" tvg-id="ESPN 3.br" tvg-name="ESPN 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Esportes", ESPN 3 FHD
+http://nille121.com/live/11510295/p883A3269U/220.m3u8
+#EXTINF:-1 tvg-number="559.2" tvg-id="ESPN 3.br" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Esportes", ESPN 3 HD
+http://nille121.com/live/11510295/p883A3269U/218.m3u8
+#EXTINF:-1 tvg-number="600.1" tvg-id="ESPN 5.br" tvg-name="ESPN 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="Esportes", ESPN 5 FHD
+http://nille121.com/live/11510295/p883A3269U/563030.m3u8
+#EXTINF:-1 tvg-number="600.2" tvg-id="ESPN 5.br" tvg-name="ESPN 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="Esportes", ESPN 5 HD
+http://nille121.com/live/11510295/p883A3269U/563031.m3u8
